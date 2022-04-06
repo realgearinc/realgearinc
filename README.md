@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RiccardoMarch
+- 👀 I’m interested in depth programming
+- 🌱 I’m currently learning advanced c++
