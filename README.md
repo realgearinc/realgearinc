@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Welcome+to+our+Github%3C3;Real+Gear+Inc+!!!;Please+do+enjoy+our+projects!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Welcome+to+our+Github%3C3;Real+Gear+Inc+!!!;Please+enjoy+our+projects!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-Welcome to our github **Riccardo** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+Welcome to our github **Real Gear Inc** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - 😅: We provide advanced **Android Studio Libraries** 🐧
 - 🌍: We are located in **South Africa**
 - 😎: Our motto is **_"This is workin' on something till nothing is left"_**
