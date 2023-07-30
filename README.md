@@ -1,14 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Riccardo+%3C3;Real+Gear+Inc+!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+Welcome+to+our+Github%3C3;Real+Gear+Inc+!!!;Please+do+enjoy+our+projects!" alt="Title"></img>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- 💳: My name is **Riccardo** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- 😅: I'm an intermediate **Android Developer** 🐧
-- 🌍: I'm living now in **South Africa, North West, Bloemhof**
-- 🧐: I'm interested in coding, sleeping, books and watchin' marvel films
-- 😎: My quote is **_"This is workin' on something till nothing is left"_**
+Welcome to our github **Riccardo** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- 😅: We provide advanced **Android Studio Libraries** 🐧
+- 🌍: We are located in **South Africa**
+- 😎: Our motto is **_"This is workin' on something till nothing is left"_**
 - 👌: Fun fact: eat 👉: code 👉: music 👉: sleep 👉: repeat ~~ everything
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
