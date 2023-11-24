@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
 Welcome to our github **Real Gear Inc** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- 👤: I'm **Riccardo March**, I'm a self taught app developer 😃
+- 👤: I'm a self taught app developer 😃
 - 😅: I'm providing advanced **Android Studio Libraries** & **Completed Project Tutorials** 🐧
 - 🌍: I'm located in **South Africa**
 - 😎: My motto is **_"This is workin' on something till nothing is left"_**
